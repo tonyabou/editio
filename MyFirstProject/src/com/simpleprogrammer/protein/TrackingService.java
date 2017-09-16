@@ -16,7 +16,7 @@ public class TrackingService {
 	
 	/**
 	 * test method
-	 * test
+	 * test method
 	 */
 	public void addProtein(int amount) {
 		total += amount;
