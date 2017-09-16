@@ -14,10 +14,6 @@ public class TrackingService {
 	   this.notifier = notifier;	
 	}
 	
-	/**
-	 * test method
-	 * test method
-	 */
 	public void addProtein(int amount) {
 		total += amount;
 		history.add(new HistoryItem(historyId++, amount, "add", total));
