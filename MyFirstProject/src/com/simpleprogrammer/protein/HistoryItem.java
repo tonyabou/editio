@@ -12,7 +12,7 @@ public class HistoryItem {
 		this.operation = operation;
 		this.total = total;
 	}
-
+/**tedt*/
 	public int getAmount() {
 		return amount;
 	}
